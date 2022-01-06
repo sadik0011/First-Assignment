@@ -1,0 +1,70 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.stay-on{
+    margin-left: 10%;
+}
+h1{
+   font-size: 60px ;
+}
+.orange-color{
+    color: orange;
+}
+.link-button{
+    font-size: 15px;
+    text-decoration: none;
+    background-color: rgb(245, 187, 79);
+    flood-color: white;
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.about-us{
+    padding: 100px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+width: 50%;
+padding-left: 19%;
+}
+#mission-2022{
+    font-size: 40px;
+    text-align:center ;
+}
+.box img{
+width: 50%;
+}
+.box{
+    width: 30% ;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.codding-3 img{
+    width: 70% ;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 100px;
+}
+.dev-li{
+    padding: 100px;
+}
+.global-image img{
+    width: 60% ;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 100px;
+}
+.global-com{
+    padding: 100px;
+}
+footer{
+    text-align: center;
+}
